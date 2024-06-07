@@ -1,5 +1,5 @@
 # CIT 281 <br><br>
-## <ul>Projects</ul> <br>
+## Projects <br>
 Project 1: Use CLI commands, VSC, Node.js. <br>
 Project 2: Working with source control, Node.js, refactoring. <br>
 Project 3: Fastify server that returns coin values from an array. <br>
@@ -9,7 +9,7 @@ Project 6: Class and subclasses that determine what shape parameters specify, ca
 Project 7: Creating this page and repos for other projects. 
 <br>
 <br>
-## <ul>Labs</ul> <br>
+## Labs <br>
 Lab 1: Powershell commands and shortcuts <br>
 Lab 2: CLI for file manip, git setup and usage <br>
 Lab 3: Refactoring, object destructing <br>
